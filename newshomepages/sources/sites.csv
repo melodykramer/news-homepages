@@ -1,4 +1,4 @@
-handle,url,name,width,height,wait,timezone,bundle
+TwitterHandle,url,name,width,height,wait,timezone,bundle
 Berkeleyside,https://berkeleyside.org/,The Bekerleyside,,,,America/Los_Angeles,bay-area
 EastBayTimes,https://www.eastbaytimes.com/,East Bay Times,,,,America/Los_Angeles,bay-area
 mercnews,https://www.mercurynews.com/,Mercury News,,,,America/Los_Angeles,bay-area
